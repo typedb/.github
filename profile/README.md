@@ -16,13 +16,13 @@
 
 <div>
   <p align="center">
-    <a href=""><strong>Documentation</strong></a>
+    <a href="https://typedb.com/docs"><strong>Documentation</strong></a>
     ·
-    <a href=""><strong>Forum</strong></a>
+    <a href="https://forum.typedb.com/"><strong>Forum</strong></a>
     ·
-    <a href=""><strong>Discord Server</strong></a>
+    <a href="https://typedb.com/discord"><strong>Discord Server</strong></a>
     ·
-    <a href=""><strong>Community Projects</strong></a>
+    <a href="https://github.com/typedb-osi"><strong>Community Projects</strong></a>
   </p>
     <h3 align="center"><a href="www.typedb.com">Visit typedb.com »</a></h3>
 </div>
