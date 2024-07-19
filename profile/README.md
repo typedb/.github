@@ -8,7 +8,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <h3 align="center">Build data applications faster, safer, and more elegantly.</h3>
+  <h3 align="center">Build modern applications faster, safer, and more elegantly.</h3>
 </div>
 
 
