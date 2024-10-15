@@ -1,4 +1,4 @@
-[![TypeDB](./banner.png)](https://typedb.com/introduction)
+[![TypeDB](./banner.png)](https://typedb.com/)
 
 [![Discord](https://img.shields.io/discord/665254494820368395?color=7389D8&label=discord&logo=discord&logoColor=ffffff)](https://typedb.com/discord)
 [![Discussion Forum](https://img.shields.io/badge/discourse-forum-blue.svg)](https://forum.typedb.com)
